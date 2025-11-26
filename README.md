@@ -48,5 +48,5 @@ A modern, responsive portfolio website for Dipesh Vishwakarma - DevOps Engineer.
 
 ## License
 
-Copyright 2024. All rights reserved.
+Copyright 2025. All rights reserved.
 
